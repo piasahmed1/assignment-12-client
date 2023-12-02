@@ -1,8 +1,7 @@
-- i create data in datase and call ta data and fetch it
 - firebase authintication 
-- This Project uses Tailwind css Daisyui react tabs 
 - protected items with login credentials 
+- This Project uses Tailwind css Daisyui react tabs 
+- i create data in datase and call ta data and fetch it
 - Firebase Authentication with Email and Password 
-- Firebase Authentication by Google 
-- user can see our all jobs section 
 - using here dynamic route and also meaningful 404 page
+- Firebase Authentication by Google 
