@@ -1,0 +1,41 @@
+[
+    {
+        "type": "silver",
+        "name": "Silver Membership",
+        "price": 50.00,
+        "features": [
+            "Shared dormitory accommodation",
+            "Bedding and linens provided",
+            "Shared bathroom facilities",
+            "Access to common areas",
+            "Free Wi-Fi"
+          ]
+    },
+    {
+        "type": "gold",
+        "name": "Gold Membership",
+        "price": 75.00,
+        "features": [
+            "Private or semi-private room",
+            "Bedding and towels provided",
+            "Ensuite bathroom",
+            "Access to common areas",
+            "Free Wi-Fi",
+            "Daily housekeeping service"
+          ]
+    },
+    {
+        "type": "platinum",
+        "name": "Platinum Membership",
+        "price": 100.00,
+        "features": [
+            "Luxurious private room",
+            "High-quality bedding and towels provided",
+            "Private ensuite bathroom with amenities",
+            "Access to exclusive lounge",
+            "Free high-speed Wi-Fi",
+            "Daily housekeeping service",
+            "Complimentary breakfast"
+          ]
+    }
+]

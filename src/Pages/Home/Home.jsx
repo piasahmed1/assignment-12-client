@@ -1,19 +1,20 @@
-import { useContext } from "react";
-import Banner1 from "./Banner1";
-import Footer from "./Footer/Footer";
-import { AuthContext } from "../../providers/AuthProvider";
-import Category from "./Category/Category";
+
+import Membership from '../Membership/Membership';
+import About from './About/About';
+import Banner from './Banner';
+import MealCategories from './MealCategories/MealCategories';
+import Review from './Review/Review';
 
 const Home = () => {
-  const authInfo = useContext(AuthContext);
-  console.log(authInfo)
-  return (
-    <div>
-      <Banner1></Banner1>
-      <Category></Category>
-      <Footer></Footer>
-    </div>
-  );
+    return (
+        <div>
+            <Banner></Banner>
+            <MealCategories></MealCategories>
+            <Membership></Membership>
+            <Review></Review>
+            <About></About>
+        </div>
+    );
 };
 
 export default Home;

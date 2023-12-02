@@ -1,0 +1,130 @@
+[
+    { 
+        "title": "Pancake Delight", 
+        "image": "https://i.ibb.co/CJwpqBB/pancakes-01-1200x1642.jpg", 
+        "rating": 3.7,
+        "category":"breakfast", 
+        "price": 9.99 
+      
+      }, 
+      { 
+        "title": "Classic Omelette", 
+        "image": "https://i.ibb.co/17qyp2P/eggsfinal-FB.jpg", 
+        "rating": 2.5, 
+        "category":"breakfast",
+        "price": 8.99 
+      }, 
+      { 
+        "title": "Healthy Granola Bowl", 
+        "image": "https://i.ibb.co/47LNNXw/download.jpg", 
+        "rating": 4.2, 
+        "category":"breakfast",
+        "price": 7.99 
+      }, 
+      { 
+        "title": "French Toast Feast", 
+        "image": "https://i.ibb.co/jZcPky5/c72eadbb-91a6-4d11-8106-99ab96fb38f5.webp", 
+        "rating": 3.8,
+        "category":"breakfast",
+        "price": 10.99 
+      }, 
+      { 
+        "title": "Avocado Toast Bliss", 
+        "image": "https://i.ibb.co/ynSv6dH/download-1.jpg", 
+        "rating": 4.6,
+        "category":"breakfast", 
+        "price": 11.99 
+      }, 
+      { 
+        "title": "Grilled Chicken Caesar Salad", 
+        "image": "https://i.ibb.co/NSQtB3P/download-2.jpg", 
+        "rating": 4.6,
+        "category":"lunch", 
+        "price": 12.99 
+      }, 
+      { 
+        "title": "Classic Margherita Pizza", 
+        "image": "https://i.ibb.co/vP692ZZ/download-3.jpg", 
+        "rating": 4.8, 
+        "category":"lunch", 
+        "price": 14.99 
+      }, 
+      { 
+        "title": "Vegetarian Buddha Bowl", 
+        "image": "https://i.ibb.co/XX6BdWw/download-4.jpg", 
+        "rating": 1.5, 
+        "category":"lunch", 
+        "price": 11.99 
+      }, 
+      { 
+        "title": "Spaghetti Bolognese", 
+        "image": "https://i.ibb.co/ZMzvRq7/download-5.jpg", 
+        "rating": 4.7, 
+        "category":"lunch", 
+        "price": 13.99 
+      }, 
+      { 
+        "title": "Teriyaki Chicken Stir-Fry", 
+        "image": "https://i.ibb.co/vBSnhzg/download-6.jpg", 
+        "rating": 4.4, 
+        "category":"lunch", 
+        "price": 15.49 
+      }, 
+      { 
+        "title": "Mushroom and Spinach Quesadilla", 
+        "image": "https://i.ibb.co/vBSnhzg/download-6.jpg", 
+        "rating": 4.2, 
+        "category":"lunch", 
+        "price": 10.99 
+      }, 
+      { 
+        "title": "Grilled Salmon with Lemon Dill Sauce", 
+        "image": "https://i.ibb.co/pQvNyRN/download-7.jpg", 
+        "rating": 4.9,
+        "category":"lunch",  
+        "price": 17.99 
+      }, 
+      { 
+        "title": "Grilled Steak with Garlic Butter", 
+        "image": "https://i.ibb.co/s2tV7K1/download-8.jpg", 
+        "rating": 4.9, 
+        "category":"dinner", 
+        "price": 22.99 
+      }, 
+      { 
+        "title": "Lemon Herb Roast Chicken", 
+        "image": "https://i.ibb.co/FVpVXDq/download-9.jpg", 
+        "rating": 4.8, 
+        "category":"dinner", 
+        "price": 19.99 
+      }, 
+      { 
+        "title": "Pasta Primavera with Tomato Basil Sauce", 
+        "image": "https://i.ibb.co/xfQNwgL/download-10.jpg", 
+        "rating": 4.6, 
+        "category":"dinner", 
+        "price": 18.99 
+      }, 
+      { 
+        "title": "Salmon with Mango Salsa", 
+        "image": "https://i.ibb.co/VtmftMd/download-11.jpg", 
+        "rating": 4.7, 
+        "category":"dinner", 
+        "price": 21.99 
+      }, 
+      { 
+        "title": "Vegetable Curry with Basmati Rice", 
+        "image": "https://i.ibb.co/YDQpkT0/download-12.jpg", 
+        "rating": 4.5, 
+        "category":"dinner", 
+        "price": 16.99 
+      }, 
+      { 
+        "title": "Honey Glazed Pork Chops", 
+        "image": "https://i.ibb.co/QFM1JbT/download-13.jpg", 
+        "rating": 4.4, 
+        "category":"dinner", 
+        "price": 20.49 
+      }
+
+]
