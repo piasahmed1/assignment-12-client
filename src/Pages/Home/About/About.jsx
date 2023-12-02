@@ -2,9 +2,6 @@ import React from 'react';
 import img from '../../../assets/image-asset.jpeg'
 const About = () => {
 
-
-
-
     return (
         <div>
             <p className='text-center font-bold lg:text-6xl text-4xl'> About </p>
